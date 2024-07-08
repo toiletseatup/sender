@@ -1,0 +1,137 @@
+<div id=":1bl" class="ii gt" jslog="20277; u014N:xr6bB; 1:WyIjdGhyZWFkLWY6MTgwMzc1OTQ4OTAzMjM5MzcyNCJd; 4:WyIjbXNnLWY6MTgwMzc1OTU5NTE4NjIzNDIwNSJd"><div id=":19g" class="a3s aiL msg7743649850929767098"><div class="adM">
+
+
+
+
+</div><div dir="ltr"><div class="adM">
+</div><div id="m_7743649850929767098Signature" class="adM"></div><div class="adM">
+</div><div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Hello {company_name} AP team,<br>
+<br>
+Please find the attached Invoice for processing as requested by&nbsp; {name}.<br>
+<br>
+We request that you kindly make the payment at the earliest. If you have any inquiries or issues, feel free to reach out to us.</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+Best Regards</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b><br>
+</b></div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b>Joshua Lewis</b></div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b>CEO | Lewis Consult </b></div>
+<div style="direction:ltr;margin:0in;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<hr style="direction:ltr;display:inline-block;width:98%">
+<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b>From:</b>&nbsp;{name} &lt;<a href="mailto:{ceo}" target="_blank">{ceo}</a>&gt;<br>
+<b>Sent:</b>&nbsp;Friday, July 5, 2024 10:48 AM<br>
+<b>To:</b>&nbsp;Joshua Lewis &lt;<a href="mailto:j.lewis@lewisconsult.org" target="_blank">j.lewis@lewisconsult.org</a>&gt;<br>
+<b>Subject:</b>&nbsp;Re: Re: Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results)&nbsp;</div>
+<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+&nbsp;</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Peter,</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+Thank you for your telephone call reminder regarding this invoice. I have reviewed and can confirm its accuracy.<br>
+<br>
+Since you a new vendor, Please forward your W9 alongside the invoice to our AP team at <a href="mailto:{email}" target="_blank">{email}</a>&nbsp;for processing today. Prompt attention will be ensured and payment will be initiated.</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Also, to prevent future payment delays, ensure that the final invoice is sent directly to our Accounts Payable team for prompt payment processing.<br>
+<br>
+Sorry for the invonvinence this may have caused.<br>
+<br>
+Regards</div>
+<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+{name}</div>
+<div style="direction:ltr;margin:0in;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div id="m_7743649850929767098x_Signature">
+<hr style="display:inline-block;width:98%">
+<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b>From:</b>&nbsp;Joshua Lewis &lt;<a href="mailto:j.lewis@lewisconsult.org" target="_blank">j.lewis@lewisconsult.org</a>&gt;<br>
+<b>Sent:</b>&nbsp;Friday, July 5, 2024 10:48 AM<br>
+<b>To:</b>&nbsp;{name}  &lt;<a href="mailto:{ceo}" target="_blank">{ceo}</a>&gt; <br>
+<b>Subject:</b>&nbsp;Re: Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results)&nbsp;</div>
+<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+&nbsp;</div>
+<div style="margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Hi {name},</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+I am writing to follow up regarding your consultation services invoice which is now past due on our system.</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Could you please confirm the status of the bill at your earliest convenience? If there are any issues or if further information is needed from our end to facilitate payment, please let us know so that we can resolve them promptly.</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Thank you for your attention to this matter. I look forward to your prompt response.</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<br>
+</div>
+<div style="margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Best Regards<br>
+<b>Joshua Lewis</b></div>
+<div style="margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b>CEO | Lewis Consult </b></div>
+<div style="margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<b><br>
+</b></div>
+</div>
+<div id="m_7743649850929767098x_appendonsend"></div>
+<hr style="direction:ltr;display:inline-block;width:98%">
+<div id="m_7743649850929767098x_divRplyFwdMsg" dir="ltr">
+<div style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<b>From:</b>&nbsp;Invoicing &lt;<a href="mailto:invoicing@lewisconsult.org" target="_blank">invoicing@lewisconsult.org</a>&gt;<br>
+<b>Sent:</b>&nbsp;Friday, June 5, 2024 10:48 AM<br>
+<b>To:</b>&nbsp;{name}  &lt;<a href="mailto:{ceo}" target="_blank">{ceo}</a>&gt; </div>
+<div style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<b>Cc:</b>&nbsp;Joshua Lewis &lt;<a href="mailto:j.lewis@lewisconsult.org" target="_blank">j.lewis@lewisconsult.org</a>&gt;</div>
+<div style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<b>Subject:</b>&nbsp;Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results)&nbsp;</div>
+<div>&nbsp;</div>
+</div>
+<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
+<span style="font-family:Calibri,Helvetica,sans-serif;color:black">Dear {name},<br>
+<br>
+Thank you for your continued collaboration with us. Your invoice for 34,500 USD is attached. As agreed during initial setup and and onboarding, the Invoice is due on receipt.<br>
+<br>
+We kindly request that you arrange payment at your earliest convenience and don't hesitate to contact our finance department (email on the Invoice) with any question regarding the Invoice.<br>
+<br>
+Thank you once again for your cooperation.<br>
+<br>
+<br>
+Best Regards<br>
+<b>Joshua Lewis</b></span></p>
+<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
+<span style="font-family:Calibri,Helvetica,sans-serif;color:black"><b>CEO | Lewis Consult </b></span></p>
+<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
+<span style="font-family:Calibri,Helvetica,sans-serif;color:black">438 Forest Avenue Manhattan, NY 10016<br>
+</span><span style="color:black"><br>
+<br>
+</span></p><div class="yj6qo"></div><div class="adL">
+</div></div><div class="adL">
+
+</div></div></div>

@@ -1,0 +1,194 @@
+ap@eataly.com | Luca Sangiorgip | Eataly
+ap@nthconsultants.com | Jeffrey Jaros | NTH Consultants
+ap@gyansys.com | Wasim Khan | GyanSys
+ap@trinitas.ventures | Loren King | Trinitas Ventures
+ap@napoleonstatebank.com | Leslie Kessens | The Napoleon State Bank
+ap@bbbs.org | Kenny Becton | Big Brothers Big Sisters of America
+ap@paulashmgt.com | Bruce Ash | Paul Ash Management
+ap@sbarro.com | Mark Pra | Sbarro
+ap@fickling.com | Roy Fickling | Fickling
+ap@familiesfirst.org | Paula Moody | Families First
+ap@weiman.com | Carl DeMasi | Weiman Products
+ap@ecibuild.com | Jeremiah Ruddell | Executive Construction
+ap@mayflower.com | Hoa Hà | Mayflower Transit, LLC.
+ap@genevaconsulting.com | Marty Navon | Geneva Consulting Group
+ap@ppc1904.com | Gary Belmonti | Precision Plating
+ap@learningtree.com | David Brown | Learning Tree International
+ap@sonc.org | David Solo | Special Olympics Northern California
+ap@utechod.com | Andam Hawezy | The Utech Group
+ap@neumannbros.com | Mike Simpson | Neumann Brothers
+ap@coreredevelopment.com | John Watson | Core Redevelopment
+ap@ghirardelliassoc.com | Alice Ghirardelli | Ghirardelli Associates
+ap@jhiengineering.com | Edward Hays | JHI Engineering
+ap@decaturcountybank.com | Jay England | Decatur County Bank
+ap@supportinc.com | Bentley Smith | Support
+ap@scainc.com | Gregory Beronja | Sc&a
+ap@tendertouch.com | David Sloat | Tender Touch Rehab Services
+ap@vanderhouwen.com | Kathy VanderHouwen | VanderHouwen
+ap@altamaha.org | Nancy Stanley | Altamaha Federal Credit Union
+ap@mcfcu.org | Elba Arenas | Members Choice Financial Credit Union
+ap@clearbrook.org | Elliott Wislar | Clearbrook
+ap@ufpi.com | Matthew Missad | UFP Industries
+ap@yescommunities.com | Tran Tri | Yes! Communities
+ap@jfcu.org | Mark Robnett | Justice Federal Credit Union
+ap@agc.org | Tim Worke | Associated General Contractors of America (AGC)
+ap@rushinggroup.com | Bo Rushing | Rushing Real Estate
+ap@skillsoft.com | Jeff Tarr | Skillsoft
+ap@clearpathfcu.org | Gerardo Guzman | Clearpath Federal Credit Union
+ap@ecigroups.com | Seth Greenberg | ECI Group
+ap@baesman.com | Rod Baesman | Baesman Group
+ap@legacypartners.com | W. Henry | Legacy Partners
+ap@dressforsuccess.org | Diane Wilde | Dress for Success
+ap@eliassen.com | David MacKeen | Eliassen Group
+ap@definitive.com | Kent Meisner | Definitive Audio
+ap@gosolidus.com | John Charette | Solidus
+ap@wcui.edu | Myra Chason | West Coast Ultrasound Institute
+ap@combinedresources.us | Mark Durante | Combined Resources
+ap@kc-store-fixtures.com | Jeff Falk | KC Store Fixtures
+ap@newlook.com | Farid Ahammed | New Look
+ap@eagleservices.com | Bobby Ali | Eagle Services
+ap@millercanfield.com | Megan Norris | Miller Canfield
+ap@cpk.com | Saul Kahan | California Pizza Kitchen
+ap@envision-consulting.com | Kimberly Leonard | Envision Consulting
+ap@cepcomanagement.com | Robert Carlson | CEPCO Management
+ap@ceacisp.org | Tim Linville | Construction Employers Association
+ap@dcu.org | Shruti M. | Digital Federal Credit Union
+ap@ccliving.com | John Davis | Concepts in Community Living
+ap@b1bank.com | Jude Melville | b1BANK
+ap@heacock.com | Benni Heacock | Heacock Insurance
+ap@ilexconstruction.com | Douglas Croker | Ilex Construction
+ap@bristolhose.com | Michael Tuminaro | Bristol Hose & Fitting
+ap@cognex.com | Robert Willett | Cognex
+ap@aargusplastics.com | Jerome Starr | Aargus Plastics
+ap@barlouie.com | Mustafa Sert | BL Restaurant Operations
+ap@groathouse.com | Fred Bronnenberg | Groathouse Construction
+ap@nslights.com | Sabit Inan | Northstar Lighting Design
+ap@acresgroup.com | James Schwantz | Acres Group
+ap@banddbuilders.com | John Blurton | B&D Builders
+ap@ohcu.org | Dawson Bonnette | Old Hickory Credit Union
+ap@rmalimo.com | Robert Alexander | RMA
+ap@historymaker.com | Nelson Mitchell | HistoryMaker Homes
+ap@firstcommunitysc.com | Dale Cole | First Community
+ap@davisware.com | Tasos Angelopoulos | Davisware
+ap@paramountrealty.com | Maurice Zekaria | Paramount Realty Services
+ap@plymouthhousing.org | Rainelle Sizemore | Plymouth Housing Group
+ap@unionsettlement.org | Darlene Williams | Union Settlement
+ap@dextera-online.com | Kathryn Daut | Dextera
+ap@novanthealth.org | Carl Armato | Novant Health
+ap@macdonaldcenter.org | Jim Freyvogel | MacDonald Training Center
+ap@ffa.org | Scott Stump | National FFA Organization
+ap@arcpointlabs.com | John Constantine | ARCpoint Labs
+ap@llanonationalbank.com | John Baker | Llano National Bank
+ap@flatbreadcompany.com | Jay Gould | The Flatbread Company
+ap@onixgroup.com | Mauricio Alves | Onix Group
+ap@oldpoint.com | Louis Morris | Old Point National Bank
+ap@wegrp.com | Ellen Turner | The WIlliam Everett Group
+ap@roadrangerusa.com | Marko Zaro | Road Ranger
+ap@comwide.com | Andrew Burggraf | CommunityWide Federal Credit Union
+ap@unclejulios.com | Tom Vogel | Uncle Julio's
+ap@capllc.com | David Glenn | Centennial American Properties
+ap@cchnc.org | Don Stump | Christian Church Homes
+ap@airforceone.com | Andrew Huang | Air Force One
+ap@petrainc.net | Jerry Frank | Petra
+ap@burkeproperties.com | John Burke | Burke Properties
+ap@firstweber.com | Shawna Alt | First Weber Realtors
+ap@esplanadebuilders.com | Ana Garnica-Foster | Esplanade Builders
+ap@morduemoving.com | Russ Adams | Mordue Moving & Storage
+ap@hsq.com | Chris Maynard | HSQ Technology
+ap@fcnbank.com | Thomas Horninger | FCN Bank
+ap@ubtus.com | Michelle D'Souza | Unified Business Technologies
+ap@porch.com | Don Martin | Porch
+ap@galarson.com | Scott Larson | Gustave A. Larson
+ap@gaiconsultants.com | Abnor Richard | GAI Consultants
+ap@tyler2construction.com | Dale Fite | Tyler 2 Construction
+ap@farallonconsulting.com | Amy Desai | Farallon Consulting
+ap@boulderchamber.com | John Thayer | Boulder Chamber
+ap@bai.org | Debbie Bianucci | Bank Administration Institute
+ap@alliancebanks.com | Frank Servace | Alliance Bank
+ap@adtechsystems.com | Dustin Campbell | Adtech Systems
+ap@oneamericanbank.com | David King | One American Bank
+ap@cherokeebuilders.com | Amy Haddock | Cherokee Builders
+ap@radiants.com | Jayaram Sathyanarayana | Radiant
+ap@tellennium.com | Greg McIntyre | Tellennium
+ap@cameron-cole.com | Cameron Cole | Cameron-Cole
+ap@corerealtyholdings.com | Douglas Morehead | Core Realty Holdings
+ap@rylem.com | Mike Dades | Rylem
+ap@rockpa.org | Latanya Frett | Rockefeller Philanthropy Advisors
+ap@omegafilters.com | Rebecca Jackson | Omega Optical
+ap@intellisource.com | Tamatha Kelleher | IntelliSource
+ap@fhcmarketing.com | Kelly Martin | FHC Marketing
+ap@cristinafoods.com | Cesar Jovalina | Cristina Foods
+ap@thepremiergroupus.com | Andy Mikayelyan | The Premier Group
+ap@vanhooseco.com | Jeff VanHoose | Vanhooseco
+ap@trusttexasbank.com | Jay Jur | TrustTexas Bank
+ap@cityhouse.org | Sheri Messer | City House
+ap@allenoutdoorstl.com | Jeff Allen | Allen Outdoor Solutions
+ap@rrbb.com | David Roth | RRBB
+ap@belz.com | Ron Belz | Belz Enterprises
+ap@guardiangroup.com | Ravi Tewari | Guardian Group
+ap@thegreeneturtle.com | Geovannie Concepcion | Greene Turtle
+ap@frigidfluid.com | Brian Yeazel | Frigid Fluid
+ap@cerebra-consulting.com | Siva Pola | Cerebra Consulting
+ap@nu-solutions.com | Patrick Lovelace | Nu Solutions Consulting
+ap@alterian.com | Bob Hale | Alterian
+ap@rtlconstruction.com | Richard LaPoint | RTL Construction
+ap@xcira.com | Nancy Rabenold | Xcira
+ap@benoist.com | Peter Warren | Benoist Bros Supply
+ap@fivestonetax.com | John Paul | Five Stone Tax Advisers
+ap@nefcu.com | David Bard | New England Federal Credit Union
+ap@reddoglogisticsinc.com | John Rediehs | Red Dog Logistics
+ap@marshallinstitute.com | Greg Folts | Marshall Institute
+ap@henriott.com | Kelley Henriott | Henriott Group
+ap@swinerton.com | David Callis | Swinerton
+ap@amshot.com | Michael Thomas | Amshot
+ap@bioenterprise.com | Haytham Dehne | BioEnterprise
+ap@brunsonpump.com | Domenica Brunson | Brunson's Pump
+ap@linktransit.com | Nick Covey | Link Transit
+ap@travisvoice.com | Greg Mantia | Travis Voice & Data
+ap@lung.org | Tracy Ross | American Lung Association
+ap@bsu.edu | Michael Haley | Ball State University
+ap@wirestaurant.org | Edward Lump | Wisconsin Restaurant Association
+ap@unionsquare.org | John Barad | Union Square Credit Union
+ap@redcross.org | Cliff Holtz | American National Red Cross
+ap@payless.com | Joshua Schapira | Payless ShoeSource
+ap@abc-companies.com | Abubakar Ahmed | ABC Bus Companies, Inc
+ap@tradeanalysis.com | James Bushey | Secure Financial Services
+ap@firstoptionbank.com | Robert Means | First Option Bank
+ap@oktirestores.net | Jim Bethune | OK Tire Stores
+ap@usp.org | Elvis Bassey | U.S. Pharmacopeia
+ap@bhcbank.com | Jack Lynass | Black Hills Community Bank NA
+ap@bfit.edu | Susan Benjamin | B. Fit
+ap@partnc.org | Scott Rhine | Part
+ap@soulsight.com | James Pietruszynski | Soulsight
+ap@mlb.com | Rob Manfred | Major League Baseball
+ap@jerrysartarama.com | David Goldstein | Jerry's Artarama
+ap@gerloffinc.com | Stephen Shanton | Gerloff Company
+ap@contentenablers.com | Brad Kabanuk | Content Enablers
+ap@schwaab.com | Ada Witt-Shapiro | Schwaab
+ap@kellytractor.com | Nicholas Kelly | Kelly Tractor Co
+ap@bradleyco.com | Brian Katemanyoka | Bradley Company
+ap@westernairexpress.com | Eugene Heil | Western Air Express
+ap@ronblue.com | Nicholas Stonestreet | Ronald Blue Trust
+ap@greencroft.org | Hugh Davis | Greencroft Communities
+ap@rlslogistics.com | Russell Leo | RLS Logistics
+ap@lakecountyil.gov | Joseph Tomsick | Lake County
+ap@starcutter.com | Bradley Lawton | Star Cutter
+ap@sjamoroso.com | Dana McManus | SJ Amoroso Construction
+ap@dminc.com | Praveen Pahwa | Digital Management Inc
+ap@utpma.com | Ryan Kruger | Utah Property Management Associates
+ap@inficaretech.com | Sumer Mathur | InfiCare Technologies
+ap@dccca.org | Lori Alvarado | DCCCA
+ap@lionplumbing.com | Paul Gentile | Lion Plumbing Supply
+ap@intera.com | Alan Kharebov | INTERA
+ap@homecarepulse.com | Bud Meadows | HCP
+ap@foxatlanta.com | Teige Fox | Fox Appliance Parts
+ap@paradigmlearning.com | Raymond Green | Paradigm Learning
+ap@obxtek.com | Dale Spencer | OBXtek
+ap@yorksolutions.net | Richard Walker | York Solutions
+ap@mybinc.com | Karen Caruso | Mind Your Business
+ap@innovationsusa.com | Sal Vasta | INNOVATION
+ap@bv.com | Mario Azar | Black & Veatch
+ap@stonemountainaccess.com | Scott Billish | Stone Mountain Access Systems
+ap@ameriflight.com | Alan Rusinowitz | Ameriflight
+ap@hasbro.com | Chris Cocks | Hasbro
+ap@biaggis.com | Todd Hovenden | Biaggi's Italian Restaurants
