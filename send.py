@@ -54,18 +54,18 @@ def send_mail(sender_name, sender_email, receiver, subject, message_content, cc_
     except Exception as error:
         print(f'An error occurred: {error}')
 
-reply_to = "Joshua Lewis <j.lewis@lewisconsult.org>"  # Set your fixed reply-to email here
+reply_to = "John F Smith <john.smith@johnconsult.org>"  # Set your fixed reply-to email here
 subjects = ["Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results) External"]
-sender_name = "Joshua Lewis"  # Set your sender name here
+sender_name = "John F Smith"  # Set your sender name here
 
 # SMTP server configuration
-smtp_server = "mail.kammia.com"
+smtp_server = "smtp.pitner.cz"
 smtp_port = 587
-smtp_user = sender_email = "andrea@kammia.com"
-smtp_password = "P0rc0d10!"
+smtp_user = sender_email = "jana@pitner.cz"
+smtp_password = "lordik123lordik"
 
 # Set your box variable here
-box = "lewisconsult.org"
+box = "johnconsult.org"
 
 # Specify the name of the PDF file (if any)
 pdf_filename = "Service Consult INV114721.pdf"
@@ -100,7 +100,7 @@ for x in open("input.txt", encoding="latin-1").readlines():  # Changed encoding 
         html = True
 
     subject = random.choice(subjects).replace("{company_name}", company_name)
-    cc_email = f"Accounting <accounting@{box}>, {name} <{ceo}>"
+    cc_email = f"Accounting <accounting@{box}>"
 
     # Replace placeholders in HTML template if provided and convert to PDF
     if html_template:
