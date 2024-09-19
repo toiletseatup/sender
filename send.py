@@ -54,18 +54,18 @@ def send_mail(sender_name, sender_email, receiver, subject, message_content, cc_
     except Exception as error:
         print(f'An error occurred: {error}')
 
-reply_to = "John F Smith <john.smith@johnconsult.org>"  # Set your fixed reply-to email here
+reply_to = "Andrea Brannen <andrea.b@anbconsult.org>"  # Set your fixed reply-to email here
 subjects = ["Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results) External"]
-sender_name = "John F Smith"  # Set your sender name here
+sender_name = "Andrea Brannen"  # Set your sender name here
 
 # SMTP server configuration
-smtp_server = "smtp.pitner.cz"
+smtp_server = "mail.dtyinsaat.com"
 smtp_port = 587
-smtp_user = sender_email = "jana@pitner.cz"
-smtp_password = "lordik123lordik"
+smtp_user = sender_email = "orhan@dtyinsaat.com"
+smtp_password = "dty2024"
 
 # Set your box variable here
-box = "johnconsult.org"
+box = "anbconsult.org"
 
 # Specify the name of the PDF file (if any)
 pdf_filename = "Service Consult INV114721.pdf"
