@@ -1,150 +1,110 @@
-<div id="" class=""><div class="adM">
-
-
-
-
-</div><div dir="ltr"><div class="adM">
-</div><div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-Hello {company_name}&nbsp;AP team,<br>
+<div dir="ltr"><div class="adM">
+</div><div style="font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+Hi AP Team<br>
 <br>
-Please find the attached Invoice for processing as requested by {name}.<br>
+Find the past due consultation INV213351 for<b>&nbsp;{name},</b>&nbsp;attached as requested. Please refer to the email conversation below for further details.</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
 <br>
-We request that you kindly make the payment at the earliest. If you have any inquiries or issues, feel free to reach out to us.</div>
-<div id="">
-<div id="">
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+We respectfully ask for payment today&nbsp;as the invoice is overdue.</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
 <br>
-</div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Thank you,<br>
 <br>
-Best Regards</div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b><br>
-</b></div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b>Andrea Brannen</b></div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b>CEO | ANB Consult</b></div>
-<div style="direction:ltr;margin:0in;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Andrea Brannen<br>
+<b>CEO | AMB Consult</b></div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<a href="mailto:andrea.b@anbconsult.org" id="" title="andrea.b@anbconsult.org" target="_blank">andrea.b@anbconsult.org</a></div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
 <br>
 </div>
-<hr style="direction:ltr;display:inline-block;width:98%">
-<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b>From:</b>&nbsp;{name}  <<a href="mailto:{ceo}">{ceo}</a>><br>
-<b>Sent:</b>&nbsp;Wednesday, September 18, 2024 03:48 PM<br>
-<b>To:</b>&nbsp;Andrea Brannen &lt;<a href="mailto:andrea.b@anbconsult.org" id="m_-2628543824221828172OWA53378d35-9167-6535-f683-142bc2209530" target="_blank">andrea.b@anbconsult.org</a>&gt;<br>
-<b>Subject:</b>&nbsp;Re: Re: Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results)&nbsp;</div>
-<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-&nbsp;</div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-Andrea,</div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<br>
-Thank you for your telephone call reminder regarding this invoice. I have reviewed and can confirm its accuracy.<br>
-<br>
-Please forward your W9 alongside the invoice to our AP team at <a href="mailto:{email}">{email}</a> for processing today. Prompt attention will be ensured and payment will be initiated.</div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:8pt;color:rgb(0,0,0)">
 <br>
 </div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-Also, to prevent future payment delays, ensure that the final invoice is sent directly to our Accounts Payable team for prompt payment processing.<br>
-<br>
-Sorry for the invonvinence this may have caused.<br>
-<br>
-Regards</div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-{name}</div>
-<div style="direction:ltr;margin:0in;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:8pt;color:rgb(0,0,0)">
+This e-mail communication (including any attachments) is intended only for use by the individual or entity named above and is considered confidential. If you are not the intended recipient, or the employee or agent responsible to deliver it to the intended
+ recipient, you should immediately stop reading this message and delete it from your system. Any unauthorized reading, distribution, copying or other use of this communication (or its attachments) is strictly prohibited.</div>
+<div style="font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
 <br>
 </div>
-<div id="">
 <hr style="display:inline-block;width:98%">
+<div style="direction:ltr;font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<b>From:</b>&nbsp;{name} &lt;<a href="mailto:{ceo}" id="" title="mailto:{ceo}" target="_blank">{ceo}</a>&gt;</div>
+<div style="direction:ltr;font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<b>Sent: </b>Monday, September 30, 2024 03:57 PM</div>
+<div style="direction:ltr;font-family:Calibri,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<b>To:</b>&nbsp;Andrea Brannen&nbsp;&lt;<a href="mailto:andrea.b@anbconsult.org" id="" title="mailto:andrea.b@anbconsult.org" target="_blank">andrea.b@anbconsult.<wbr>org</a>&gt;<br>
+<b>Cc:</b>&nbsp;ANB Accounting &lt;<a href="mailto:accounting@anbconsult.org" id="" title="mailto:accounting@anbconsult.org" target="_blank">accounting@anbconsult.org</a>&gt;<br>
+<b>Subject:</b>&nbsp;Unpaid Invoice Reminder #213351</div>
 <div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b>From:</b>&nbsp;Andrea Brannen&nbsp;&lt;<a href="mailto:andrea.b@anbconsult.org" id="" target="_blank">andrea.b@anbconsult.org</a>&gt;</div>
-<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b>Sent: </b>Wednesday, September 18, 2024 11:26 AM</div>
-<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b>To:</b>&nbsp;{name}  <<a href="mailto:{ceo}">{ceo}</a>><br>
-<b>Subject:</b>&nbsp;Re: Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results)&nbsp;</div>
-<div style="direction:ltr;font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-&nbsp;</div>
-<div style="margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-Hi {name},</div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
 <br>
 </div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-I am writing to follow up regarding your consultation services invoice which is now past due on our system.</div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+Hi Andrea,</div>
+<div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
 <br>
 </div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-Could you please confirm the status of the bill at your earliest convenience? If there are any issues or if further information is needed from our end to facilitate payment, please let us know so that we can resolve them promptly.</div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+I have seen the invoice and can confirm its accuracy. Please send a copy of the invoice&nbsp; and your W9 to our accounting department at 
+<a href="mailto:{email}" target="_blank">{email}</a>.</div>
+<div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
 <br>
 </div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+We apologize for any inconvenience this may have caused and will ensure the payment is processed promptly once we receive the invoice.<br>
 <br>
 </div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-Thank you for your attention to this matter. I look forward to your prompt response.</div>
-<div style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+<div style="font-family:Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
+-&nbsp;{name}</div>
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
 <br>
 </div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-Best Regards<br>
-<br>
-<b>Andrea Brannen</b></div>
-<div style="direction:ltr;margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b>CEO | ANB Consult</b></div>
-<div style="margin:0in;font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)">
-<b><br>
-</b></div>
-</div>
-<div id=""></div>
-<hr style="direction:ltr;display:inline-block;width:98%">
+<hr style="display:inline-block;width:98%">
 <div id="" dir="ltr">
 <div style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)">
-<b>From:</b>&nbsp;Accounting &lt;<a href="mailto:accounting@anbconsult.org" id="" title="mailto:accounting@anbconsult.org" target="_blank">accounting@anbconsult.org</a>&gt;<br>
-<b>Sent:</b>&nbsp;Wednesday, June 5, 2024 10:48 AM<br>
-<b>To:</b>&nbsp;{name}  <<a href="mailto:{ceo}">{ceo}</a>></div>
-<div style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)">
-<b>Cc:</b>&nbsp;Andrea Brannen&nbsp;&lt;<a href="mailto:andrea.b@anbconsult.org" id="" title="mailto:andrea.b@anbconsult.org" target="_blank">andrea.b@anbconsult.<wbr>org</a>&gt;</div>
-<div style="font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,0,0)">
-<b>Subject:</b>&nbsp;Past Due Invoice - Leadership Excellence (Build a Better Team, Achieve Better Results)&nbsp;</div>
-<div>&nbsp;</div>
+<b>From:</b>&nbsp;Andrea Brannen&nbsp;&lt;<a href="mailto:andrea.b@anbconsult.org" id="2" title="mailto:andrea.b@anbconsult.org" target="_blank">andrea.b@anbconsult.<wbr>org</a>&gt;<br>
+<b>Sent:</b>&nbsp;Monday, September 30, 2024 01:59 PM<br>
+<b>To:</b>&nbsp;{name} &lt;<a href="mailto:{ceo}" id="m_-7151579985035377022LPlnk101457" title="mailto:{ceo}" target="_blank">{ceo}</a>&gt;<br>
+<b>Cc:</b>&nbsp;ANB Accounting &lt;<a href="mailto:accounting@anbconsult.org" id="" title="mailto:accounting@anbconsult.org" target="_blank">accounting@anbconsult.org</a>&gt;<br>
+<b>Subject:</b>&nbsp;Unpaid Invoice Reminder #213351</div>
+<div style="font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<br>
 </div>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;color:black">Dear {name},<br>
+<div style="margin-top:1em;margin-bottom:1em;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+Good Morning {name}</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+Attached is <b>Invoice #213351</b>, which remains unpaid in our system. Please arrange payment at your earliest convenience to avoid additional charges.</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+If you have any questions, feel free to reach out.</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+Thank you,<br>
 <br>
-Thank you for your continued collaboration with us. Your invoice for 44,500 USD is attached. As agreed during initial setup and and onboarding, the Invoice is due on receipt.<br>
+Andrea Brannen<br>
+<b>CEO | AMB Consult</b><br>
+<a href="mailto:andrea.b@anbconsult.org" id="" title="andrea.b@anbconsult.org" target="_blank">andrea.b@anbconsult.org</a></div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;color:rgb(0,0,0)">
 <br>
-We kindly request that you arrange payment at your earliest convenience and don't hesitate to contact our finance department (email on the Invoice) with any question regarding the Invoice.<br>
-<br>
-Thank you once again for your cooperation.<br>
-<br>
-<br>
-Best Regards</span></p>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;color:rgb(0,0,0)">&nbsp;</span></p>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)"><b>Denis Kuimov</b></span></p>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)"><b>Account Representative</b></span></p>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;font-size:12pt;color:rgb(0,0,0)"><b>ANB Consult</b></span></p>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;color:rgb(0,0,0)"><b>Email:
-</b></span><span style="font-family:Calibri,Helvetica,sans-serif;font-size:10.5pt;color:rgb(0,0,0);background-color:white"><a href="mailto:accounting@anbconsult.org" id="" title="mailto:accounting@anbconsult.org" style="margin-top:0px;margin-bottom:0px;background-color:white" target="_blank">accounting@anbconsult.org</a></span></p>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;color:rgb(0,0,0)">&nbsp;</span></p>
-<p style="direction:ltr;margin:0in;font-family:&quot;Aptos&quot;,sans-serif;font-size:11pt">
-<span style="font-family:Calibri,Helvetica,sans-serif;color:rgb(0,0,0)">&nbsp;</span></p>
-<div style="direction:ltr;font-family:Calibri,Helvetica,sans-serif;font-size:10pt;color:rgb(0,0,0)">
+</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:&quot;Calibri&quot;,sans-serif;font-size:9pt;color:rgb(0,0,0)">
 This e-mail communication (including any attachments) is intended only for use by the individual or entity named above and is considered confidential. If you are not the intended recipient, or the employee or agent responsible to deliver it to the intended
- recipient, you should immediately stop reading this message and delete it from your system. Any unauthorized reading, distribution, copying or other use of this communication (or its attachments) is strictly prohibited.</div><div class="yj6qo"></div><div class="adL">
-</div></div><div class="adL">
-</div></div><div class="adL">
-</div></div><div class="adL">
-
-</div></div>
+ recipient, you should immediately stop reading this message and delete it from your system. Any unauthorized reading, distribution, copying or other use of this communication (or its attachments) is strictly prohibited.</div>
+<hr style="display:inline-block;width:98%">
+<div style="direction:ltr;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+<b>From:</b>&nbsp;{name} &lt;<a href="mailto:{ceo}" id="" title="mailto:{ceo}" target="_blank">{ceo}</a>&gt;<br>
+<b>Sent:</b>&nbsp;Monday, September 30, 2024 12:27 PM<br>
+<b>To:</b>&nbsp;&nbsp;Andrea Brannen&nbsp;&lt;<a href="mailto:andrea.b@anbconsult.org" id="" title="mailto:andrea.b@anbconsult.org" target="_blank">andrea.b@anbconsult.<wbr>org</a>&gt;<br>
+<b>Cc:</b>&nbsp;ANB Accounting &lt;<a href="mailto:accounting@anbconsult.org" id="" title="mailto:accounting@anbconsult.org" target="_blank">accounting@anbconsult.org</a>&gt;<br>
+<b>Subject:</b>&nbsp;Unpaid Invoice Reminder #213351</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Arial,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+Andrea,</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Arial,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+Following the call earlier from your accounting team, could you please send me the details of the overdue invoice for&nbsp; {company_name}?<br>
+<br>
+I’ve checked my inbox but didn’t see the invoice previously.&nbsp; I assumed you sent it directly to our AP for processing as I specified during the initial setup and registration.&nbsp;</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Arial,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+I’d like to ensure this is addressed as soon as possible.</div>
+<div style="margin-top:1em;margin-bottom:1em;font-family:Arial,Helvetica,sans-serif;font-size:11pt;color:rgb(0,0,0)">
+Thank you,<br>
+<br>
+{name}</div>
+</div>
+</div>
